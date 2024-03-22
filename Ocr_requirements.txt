@@ -6,3 +6,4 @@ pytesseract
 streamlit
 Pillow
 opencv-python-headless
+cv2
